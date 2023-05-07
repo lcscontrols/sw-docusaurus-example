@@ -4,32 +4,35 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Dumper',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Monitor the performance of all your heavy vehicles on the go. Monitor your most important KPI's
+        such as Productivity, Tons/hr, Cycle time/trip, Payload efficiency of your vehicle, Availability
+        of your vehicle and overall equipment efficiency..
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Tipper',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Monitor the performance of all your heavy vehicles on the go. Monitor your most important KPI's
+        such as Productivity, Tons/hr, Cycle time/trip, Payload efficiency of your vehicle, Availability
+        of your vehicle and overall equipment efficiency..
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Wheel Loader',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Monitor the performance of all your heavy vehicles on the go. Monitor your most important KPI's
+        such as Productivity, Tons/hr, Cycle time/trip, Payload efficiency of your vehicle, Availability
+        of your vehicle and overall equipment efficiency.
       </>
     ),
   },
